@@ -34,11 +34,11 @@ object VacationSpots {
     )
 
     private val cityNames = arrayListOf(
-        "New Delhi", "Manchester", "Nottingham", "Portsmouth", "Agra",
-        "Hyderabad", "Goa", "Srinagar", "Xian", "Shanghai",
-        "Buffalo", "Boise", "Pittsburgh", "Scottsdale", "Boston",
-        "Philly", "Darjeeling", "Jaipur", "DC", "Minneapolis",
-        "New York City", "Denver", "Asheville", "Hull", "Liverpool",
+        "Cameroon", "Mauritania", "Senegal", "Guinea Bissau", "Benin",
+        "Algeria", "Burkina Faso", "Sierra Leone", "Liberia", "Ghana",
+        "Nigeria", "Niger", "Libya", "Western Sahara", "Mali",
+        "Kenya", "Tanzania", "Ethiopia", "South Sudan", "Egypt",
+        "Eswatini", "South Africa", "Congo", "Cabo Verde", "Togo",
         "Detroit", "Adelaide", "Tasmania", "Austin", "Kansas City", "Seattle",
         "Oakland", "Las Vegas", "New Orleans", "Bath", "Norwich",
         "Mumbai", "Cambridge", "London", "Bristol", "Brighton", "Durham",
